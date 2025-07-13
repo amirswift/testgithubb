@@ -10,3 +10,4 @@ def ranandegi(soraat):
 
 speed = int(input("Please enter your speed: "))
 ranandegi(speed)
+ranandegi(4)
